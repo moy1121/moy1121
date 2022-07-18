@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moy1121
-- 👀 I’m interested in 
+- 👀 I’m interested in frontier technolodgy.
 - 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on any projects to assist learning. 
 
